@@ -1,2 +1,2 @@
-# lucifer
+# Lucifer
 My first application
